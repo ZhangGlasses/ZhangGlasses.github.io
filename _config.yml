@@ -1,0 +1,7 @@
+# Site settings
+title: Your Personal Blog
+baseurl:
+url: "https://forWangsGlassNet.github.io/yourrepositoryname"
+
+# Build settings
+theme: jekyll-theme-minimal
